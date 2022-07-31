@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on: android apps, UI/UX design, growing my tech blog.
+- 🔭 I’m currently working on: android apps, and UI/UX design.
 - 🌱 I’m currently learning: kotlin, graphic design, AR&VR.
 - 💬 Ask me about: android, UI/UX, programming, career in tech.
 - ⚡ Fun fact: I hate coffee.
